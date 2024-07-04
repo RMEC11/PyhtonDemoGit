@@ -38,3 +38,8 @@ print(dict)
 print("Git Demo changes 1")
 print("Git Demo changes 2")
 print("Git Demo changes 3")
+
+#My Second code commitment after pull
+print("Git Demo changes 4")
+print("Git Demo changes 5")
+print("Git Demo changes 6")
