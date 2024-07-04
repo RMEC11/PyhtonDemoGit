@@ -1,0 +1,34 @@
+2024-06-21 13:47:26,427 : WARNING : pytestspractice.test_logging : Warning level message
+2024-06-21 13:47:26,427 : ERROR : pytestspractice.test_logging : Error level message
+2024-06-21 13:47:26,427 : CRITICAL : pytestspractice.test_logging : Critical level message
+2024-06-21 13:51:16,289 : WARNING : pytestspractice.test_logging : Warning level message
+2024-06-21 13:51:16,289 : ERROR : pytestspractice.test_logging : Error level message
+2024-06-21 13:51:16,289 : CRITICAL : pytestspractice.test_logging : Critical level message
+2024-06-21 13:53:36,785 : WARNING : pytestspractice.test_logging : Warning level message
+2024-06-21 13:53:36,786 : ERROR : pytestspractice.test_logging : Error level message
+2024-06-21 13:53:36,786 : CRITICAL : pytestspractice.test_logging : Critical level message
+2024-06-21 13:54:41,856 : DEBUG : pytestspractice.test_logging : Debug level message
+2024-06-21 13:54:41,857 : INFO : pytestspractice.test_logging : Info level message
+2024-06-21 13:54:41,857 : WARNING : pytestspractice.test_logging : Warning level message
+2024-06-21 13:54:41,857 : ERROR : pytestspractice.test_logging : Error level message
+2024-06-21 13:54:41,857 : CRITICAL : pytestspractice.test_logging : Critical level message
+2024-06-22 09:52:58,428 : INFO : pytestspractice.BaseClass : ['Abhishek', 'Tiwari', 'embibe.com']
+2024-06-22 09:52:58,428 : ERROR : pytestspractice.BaseClass : Abhishek
+2024-06-22 09:52:58,428 : WARNING : pytestspractice.BaseClass : embibe.com
+2024-06-22 09:53:20,776 : INFO : pytestspractice.BaseClass : ['Abhishek', 'Tiwari', 'embibe.com']
+2024-06-22 09:53:20,776 : ERROR : pytestspractice.BaseClass : Abhishek
+2024-06-22 09:53:20,777 : WARNING : pytestspractice.BaseClass : embibe.com
+2024-06-22 09:56:33,186 : INFO : pytestspractice.BaseClass : ['Abhishek', 'Tiwari', 'embibe.com']
+2024-06-22 09:56:33,186 : ERROR : pytestspractice.BaseClass : Abhishek
+2024-06-22 09:56:33,187 : WARNING : pytestspractice.BaseClass : embibe.com
+2024-06-22 09:57:16,564 : INFO : test_usercreat : ['Abhishek', 'Tiwari', 'embibe.com']
+2024-06-22 09:57:16,564 : ERROR : test_usercreat : Abhishek
+2024-06-22 09:57:16,564 : WARNING : test_usercreat : embibe.com
+2024-06-22 10:02:33,236 : INFO : test_usercreat : ['Abhishek', 'Tiwari', 'embibe.com']
+2024-06-22 10:02:33,236 : ERROR : test_usercreat : Abhishek
+2024-06-22 10:02:33,236 : WARNING : test_usercreat : embibe.com
+2024-06-22 10:02:33,256 : DEBUG : pytestspractice.test_logging : Debug level message
+2024-06-22 10:02:33,256 : INFO : pytestspractice.test_logging : Info level message
+2024-06-22 10:02:33,256 : WARNING : pytestspractice.test_logging : Warning level message
+2024-06-22 10:02:33,256 : ERROR : pytestspractice.test_logging : Error level message
+2024-06-22 10:02:33,256 : CRITICAL : pytestspractice.test_logging : Critical level message
